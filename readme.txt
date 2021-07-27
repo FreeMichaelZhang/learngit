@@ -9,5 +9,4 @@ test again
 test again and again
 我正在dev分支修改
 试一试远程分支push
-
-开发者B修改了这一行
+开发者A和B都修改了这一行
